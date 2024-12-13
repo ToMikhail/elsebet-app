@@ -1,0 +1,18 @@
+@import '../../styles/_variables.scss';
+
+.header {
+  height: 5rem;
+  background-color: $dark-color;
+
+  color: $neutral-color;
+}
+
+.container {
+  max-width: $breakpoint-screen;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.25rem;
+}
