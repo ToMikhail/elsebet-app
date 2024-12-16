@@ -1,0 +1,20 @@
+@import '../../../../styles/variables';
+
+.container {
+  max-width: 1280px;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: .5rem;
+  color: $neutral-color;
+}
+
+.leagues-list {
+  min-width: 17rem;
+  flex: 1;
+}
+
+.main {
+  flex: 3;
+}
