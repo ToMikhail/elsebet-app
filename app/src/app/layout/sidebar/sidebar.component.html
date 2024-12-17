@@ -1,1 +1,4 @@
 <p>sidebar works!</p>
+<div *ngFor="let league of (leaguesList$ | async)">
+  <p>{{ league.country }}</p>
+</div>
