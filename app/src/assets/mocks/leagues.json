@@ -1,0 +1,272 @@
+[
+  {
+    "country": "England",
+    "leagues": [
+      {
+        "name": "Premier League",
+        "abbreviation": "EPL",
+        "level": "1"
+      },
+      {
+        "name": "EFL Championship",
+        "abbreviation": "CH",
+        "level": "2"
+      },
+      {
+        "name": "EFL League One",
+        "abbreviation": "L1",
+        "level": "3"
+      },
+      {
+        "name": "EFL League Two",
+        "abbreviation": "L2",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "leagues": [
+      {
+        "name": "La Liga",
+        "abbreviation": "LL",
+        "level": "1"
+      },
+      {
+        "name": "Segunda División",
+        "abbreviation": "SD",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "leagues": [
+      {
+        "name": "Bundesliga",
+        "abbreviation": "BL",
+        "level": "1"
+      },
+      {
+        "name": "2. Bundesliga",
+        "abbreviation": "2BL",
+        "level": "2"
+      },
+      {
+        "name": "3. Liga",
+        "abbreviation": "3L",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "leagues": [
+      {
+        "name": "Serie A",
+        "abbreviation": "SA",
+        "level": "1"
+      },
+      {
+        "name": "Serie B",
+        "abbreviation": "SB",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "leagues": [
+      {
+        "name": "Ligue 1",
+        "abbreviation": "L1",
+        "level": "1"
+      },
+      {
+        "name": "Ligue 2",
+        "abbreviation": "L2",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "leagues": [
+      {
+        "name": "Eredivisie",
+        "abbreviation": "ED",
+        "level": "1"
+      },
+      {
+        "name": "Eerste Divisie",
+        "abbreviation": "EED",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "leagues": [
+      {
+        "name": "Primeira Liga",
+        "abbreviation": "PL",
+        "level": "1"
+      },
+      {
+        "name": "Liga Portugal 2",
+        "abbreviation": "LP2",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "leagues": [
+      {
+        "name": "Belgian Pro League",
+        "abbreviation": "BPL",
+        "level": "1"
+      },
+      {
+        "name": "Challenger Pro League",
+        "abbreviation": "CPL",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "leagues": [
+      {
+        "name": "Süper Lig",
+        "abbreviation": "SL",
+        "level": "1"
+      },
+      {
+        "name": "TFF First League",
+        "abbreviation": "TFF1",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "leagues": [
+      {
+        "name": "Russian Premier League",
+        "abbreviation": "RPL",
+        "level": "1"
+      },
+      {
+        "name": "Russian First League",
+        "abbreviation": "RFL",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "leagues": [
+      {
+        "name": "Ekstraklasa",
+        "abbreviation": "EKS",
+        "level": "1"
+      },
+      {
+        "name": "I Liga",
+        "abbreviation": "IL",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "leagues": [
+      {
+        "name": "Belarusian Premier League",
+        "abbreviation": "BPL",
+        "level": "1"
+      },
+      {
+        "name": "Belarusian First League",
+        "abbreviation": "BFL",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Scotland",
+    "leagues": [
+      {
+        "name": "Scottish Premiership",
+        "abbreviation": "SP",
+        "level": "1"
+      },
+      {
+        "name": "Scottish Championship",
+        "abbreviation": "SC",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "leagues": [
+      {
+        "name": "Austrian Bundesliga",
+        "abbreviation": "AB",
+        "level": "1"
+      },
+      {
+        "name": "2. Liga",
+        "abbreviation": "A2",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "leagues": [
+      {
+        "name": "Swiss Super League",
+        "abbreviation": "SSL",
+        "level": "1"
+      },
+      {
+        "name": "Challenge League",
+        "abbreviation": "CL",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "leagues": [
+      {
+        "name": "Super League Greece",
+        "abbreviation": "SLG",
+        "level": "1"
+      },
+      {
+        "name": "Super League 2",
+        "abbreviation": "SL2",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "leagues": [
+      {
+        "name": "Czech First League",
+        "abbreviation": "CFL",
+        "level": "1"
+      },
+      {
+        "name": "Czech National League",
+        "abbreviation": "CNL",
+        "level": "2"
+      }
+    ]
+  }
+]
