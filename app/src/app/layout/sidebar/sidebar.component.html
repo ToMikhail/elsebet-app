@@ -13,6 +13,8 @@
         {{tree.isExpanded(node) ? 'expand_more' : 'chevron_right'}}
       </mat-icon>
     </button>
-    {{node.country}}
+    <span [className]="'fi fi-' + node.countryCode"></span>
+    {{ ' ' + node.country}}
   </mat-tree-node>
 </mat-tree>
+

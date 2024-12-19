@@ -1,6 +1,7 @@
 [
   {
     "country": "England",
+    "countryCode": "gb-eng",
     "leagues": [
       {
         "name": "Premier League",
@@ -26,6 +27,7 @@
   },
   {
     "country": "Spain",
+    "countryCode": "es",
     "leagues": [
       {
         "name": "La Liga",
@@ -41,6 +43,7 @@
   },
   {
     "country": "Germany",
+    "countryCode": "de",
     "leagues": [
       {
         "name": "Bundesliga",
@@ -61,6 +64,7 @@
   },
   {
     "country": "Italy",
+    "countryCode": "it",
     "leagues": [
       {
         "name": "Serie A",
@@ -76,6 +80,7 @@
   },
   {
     "country": "France",
+    "countryCode": "fr",
     "leagues": [
       {
         "name": "Ligue 1",
@@ -91,6 +96,7 @@
   },
   {
     "country": "Netherlands",
+    "countryCode": "nl",
     "leagues": [
       {
         "name": "Eredivisie",
@@ -106,6 +112,7 @@
   },
   {
     "country": "Portugal",
+    "countryCode": "pt",
     "leagues": [
       {
         "name": "Primeira Liga",
@@ -121,6 +128,7 @@
   },
   {
     "country": "Belgium",
+    "countryCode": "be",
     "leagues": [
       {
         "name": "Belgian Pro League",
@@ -136,6 +144,7 @@
   },
   {
     "country": "Turkey",
+    "countryCode": "tr",
     "leagues": [
       {
         "name": "Süper Lig",
@@ -151,6 +160,7 @@
   },
   {
     "country": "Russia",
+    "countryCode": "ru",
     "leagues": [
       {
         "name": "Russian Premier League",
@@ -166,6 +176,7 @@
   },
   {
     "country": "Poland",
+    "countryCode": "pl",
     "leagues": [
       {
         "name": "Ekstraklasa",
@@ -181,6 +192,7 @@
   },
   {
     "country": "Belarus",
+    "countryCode": "",
     "leagues": [
       {
         "name": "Belarusian Premier League",
@@ -196,6 +208,7 @@
   },
   {
     "country": "Scotland",
+    "countryCode": "gb-sct",
     "leagues": [
       {
         "name": "Scottish Premiership",
@@ -211,6 +224,7 @@
   },
   {
     "country": "Austria",
+    "countryCode": "at",
     "leagues": [
       {
         "name": "Austrian Bundesliga",
@@ -226,6 +240,7 @@
   },
   {
     "country": "Switzerland",
+    "countryCode": "ch",
     "leagues": [
       {
         "name": "Swiss Super League",
@@ -241,6 +256,7 @@
   },
   {
     "country": "Greece",
+    "countryCode": "gr",
     "leagues": [
       {
         "name": "Super League Greece",
@@ -256,6 +272,7 @@
   },
   {
     "country": "Czech Republic",
+    "countryCode": "cz",
     "leagues": [
       {
         "name": "Czech First League",
