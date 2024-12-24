@@ -10,13 +10,12 @@ import { MatTreeModule } from '@angular/material/tree';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { Country } from '../../interfaces/country.interface';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-sidebar',
   imports: [
-    JsonPipe,
-    NgFor,
-    AsyncPipe,
+    RouterModule,
     MatTreeModule,
     MatButtonModule,
     MatIconModule,
