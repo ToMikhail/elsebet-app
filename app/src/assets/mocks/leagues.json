@@ -199,6 +199,7 @@
     "countryCode": "",
     "leagues": [
       {
+        "id": "by1",
         "name": "Belarusian Premier League",
         "abbreviation": "BPL",
         "level": "1"
