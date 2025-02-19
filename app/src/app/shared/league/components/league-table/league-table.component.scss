@@ -1,0 +1,22 @@
+@use '@angular/material' as mat;
+@import "../../../../styles/variables";
+
+th, td {
+  width: 100%;
+  color: $neutral-color;
+  white-space: nowrap;
+}
+
+.mat-column-position {
+  width: fit-content;
+
+}
+
+.mat-mdc-row {
+  cursor: pointer;
+
+  &:hover {
+    background-color: $primary-color;
+  }
+}
+

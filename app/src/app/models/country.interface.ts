@@ -1,4 +1,4 @@
-import { League } from "./leagues.interface";
+import { League } from "./league.interface";
 
 export interface Country {
   country: string;

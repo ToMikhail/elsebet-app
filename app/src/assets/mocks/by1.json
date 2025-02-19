@@ -1,6 +1,8 @@
 {
-  "league": "Belarusian Premier League",
+  "country": "Belarus",
+  "league": "Premier League",
   "season": "2024",
+  "signLink": "https://upload.wikimedia.org/wikipedia/en/d/d6/Belarus_Premier_League_logo.png",
   "standings": [
     {
       "position": 1,

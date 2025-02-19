@@ -167,12 +167,12 @@
     "countryCode": "ru",
     "leagues": [
       {
-        "name": "Russian Premier League",
+        "name": "Premier League",
         "abbreviation": "RPL",
         "level": "1"
       },
       {
-        "name": "Russian First League",
+        "name": "First League",
         "abbreviation": "RFL",
         "level": "2"
       }
@@ -200,12 +200,12 @@
     "leagues": [
       {
         "id": "by1",
-        "name": "Belarusian Premier League",
+        "name": "Premier League",
         "abbreviation": "BPL",
         "level": "1"
       },
       {
-        "name": "Belarusian First League",
+        "name": "First League",
         "abbreviation": "BFL",
         "level": "2"
       }
