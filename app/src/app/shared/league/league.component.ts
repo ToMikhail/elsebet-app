@@ -8,10 +8,11 @@ import {
 } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { LeagueTableComponent } from './components/league-table/league-table.component';
+import { MatTabsModule } from '@angular/material/tabs';
 
 @Component({
   selector: 'app-league',
-  imports: [MatCardModule, LeagueTableComponent],
+  imports: [MatCardModule, MatTabsModule, LeagueTableComponent],
   // providers: [{ provide: MockLeagueService, useClass: MockLeagueService }],
   providers: [MockLeagueService], // alternative method to inject service
   templateUrl: './league.component.html',
