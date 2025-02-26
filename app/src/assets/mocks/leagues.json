@@ -4,21 +4,25 @@
     "countryCode": "gb-eng",
     "leagues": [
       {
+        "id": "1",
         "name": "Premier League",
         "abbreviation": "EPL",
         "level": "1"
       },
       {
+        "id": "2",
         "name": "EFL Championship",
         "abbreviation": "CH",
         "level": "2"
       },
       {
+        "id": "3",
         "name": "EFL League One",
         "abbreviation": "L1",
         "level": "3"
       },
       {
+        "id": "4",
         "name": "EFL League Two",
         "abbreviation": "L2",
         "level": "4"
@@ -163,12 +167,12 @@
     "countryCode": "ru",
     "leagues": [
       {
-        "name": "Russian Premier League",
+        "name": "Premier League",
         "abbreviation": "RPL",
         "level": "1"
       },
       {
-        "name": "Russian First League",
+        "name": "First League",
         "abbreviation": "RFL",
         "level": "2"
       }
@@ -195,12 +199,13 @@
     "countryCode": "",
     "leagues": [
       {
-        "name": "Belarusian Premier League",
+        "id": "by1",
+        "name": "Premier League",
         "abbreviation": "BPL",
         "level": "1"
       },
       {
-        "name": "Belarusian First League",
+        "name": "First League",
         "abbreviation": "BFL",
         "level": "2"
       }

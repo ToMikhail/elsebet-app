@@ -1,10 +1,11 @@
-<mat-tree #tree [dataSource]="leaguesList$" [childrenAccessor]="childrenAccessor">
-  <!-- This is the tree node template for leaf nodes -->
-  <mat-tree-node *matTreeNodeDef="let node" matTreeNodePadding>
-    <!-- use a disabled button to provide padding for tree leaf -->
-    <button mat-icon-button disabled></button>
-    {{node.name}}
-  </mat-tree-node>
+<mat-tree class="hover" #tree [dataSource]="leaguesList$" [childrenAccessor]="childrenAccessor">
+    <!-- This is the tree node template for leaf nodes -->
+    <mat-tree-node class="hover" *matTreeNodeDef="let node" matTreeNodePadding [routerLink]="['/leagues/'+ node.id +'/overview/premier-league']"
+      routerLinkActive="router-link-active">
+      <!-- use a disabled button to provide padding for tree leaf -->
+      <button mat-icon-button disabled></button>
+      {{node.name}}
+    </mat-tree-node>
   <!-- This is the tree node template for expandable nodes -->
   <mat-tree-node *matTreeNodeDef="let node; when: hasChild" matTreeNodePadding matTreeNodeToggle
     [cdkTreeNodeTypeaheadLabel]="node.name">
@@ -13,8 +14,7 @@
         {{tree.isExpanded(node) ? 'expand_more' : 'chevron_right'}}
       </mat-icon>
     </button>
-    <span [className]="'fi fi-' + node.countryCode"></span>
-    {{ ' ' + node.country}}
+    <span [className]="'name-country fi fi-' + node.countryCode"></span>
+    {{node.country}}
   </mat-tree-node>
 </mat-tree>
-

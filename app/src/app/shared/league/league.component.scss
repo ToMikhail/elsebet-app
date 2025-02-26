@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1rem;
+  background-color: #fff;
+}
+.logo {
+  width: 3rem;
+  height: auto;
+
+  vertical-align: middle;
+}
