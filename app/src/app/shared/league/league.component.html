@@ -3,16 +3,16 @@
     <div class="logo-container">
       <img mat-card-image class="logo" src="{{leagueData.signLink}}" alt="logo">
     </div>
-    <mat-card-title>{{ leagueData.league }}</mat-card-title>
+    <mat-card-title class="header-2">{{ leagueData.league }}</mat-card-title>
     <mat-card-actions>
       <app-season-select></app-season-select>
     </mat-card-actions>
   </mat-card-header>
   <mat-card-content>
-  <mat-tab-group animationDuration="0ms">
-    <mat-tab label="Table"><app-league-table [leagueData]="leagueData"></app-league-table></mat-tab>
-    <mat-tab label="Matches">Matches</mat-tab>
-    <mat-tab label="Scorers">Scorers</mat-tab>
-  </mat-tab-group>
+    <mat-tab-group animationDuration="0ms">
+      <mat-tab label="Table"><app-league-table [leagueData]="leagueData"></app-league-table></mat-tab>
+      <mat-tab label="Matches">Matches</mat-tab>
+      <mat-tab label="Scorers">Scorers</mat-tab>
+    </mat-tab-group>
   </mat-card-content>
 </mat-card>
