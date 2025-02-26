@@ -4,6 +4,7 @@
     <div class="container">
       <div class="logo-container"><img class="logo" src="{{leagueData.signLink}}" alt="logo"></div>
       <p>{{ leagueData.league }}</p>
+      <app-season-select></app-season-select>
     </div>
     <mat-tab-group animationDuration="0ms">
       <mat-tab label="Table"><app-league-table [leagueData]="leagueData"></app-league-table></mat-tab>
