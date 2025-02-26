@@ -1,16 +1,18 @@
-<!-- <pre>{{ leagueData | json}}</pre> -->
 <mat-card>
-  <mat-card-content>
-    <div class="container">
-      <div class="logo-container"><img class="logo" src="{{leagueData.signLink}}" alt="logo"></div>
-      <p>{{ leagueData.league }}</p>
-      <app-season-select></app-season-select>
+  <mat-card-header class="container">
+    <div class="logo-container">
+      <img mat-card-image class="logo" src="{{leagueData.signLink}}" alt="logo">
     </div>
-    <mat-tab-group animationDuration="0ms">
-      <mat-tab label="Table"><app-league-table [leagueData]="leagueData"></app-league-table></mat-tab>
-      <mat-tab label="Matches">Matches</mat-tab>
-      <mat-tab label="Scorers">Scorers</mat-tab>
-    </mat-tab-group>
+    <mat-card-title>{{ leagueData.league }}</mat-card-title>
+    <mat-card-actions>
+      <app-season-select></app-season-select>
+    </mat-card-actions>
+  </mat-card-header>
+  <mat-card-content>
+  <mat-tab-group animationDuration="0ms">
+    <mat-tab label="Table"><app-league-table [leagueData]="leagueData"></app-league-table></mat-tab>
+    <mat-tab label="Matches">Matches</mat-tab>
+    <mat-tab label="Scorers">Scorers</mat-tab>
+  </mat-tab-group>
   </mat-card-content>
 </mat-card>
-<!-- <app-league-table [leagueData]="leagueData"></app-league-table> -->
