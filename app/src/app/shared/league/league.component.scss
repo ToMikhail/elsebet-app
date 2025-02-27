@@ -3,17 +3,34 @@
   justify-content: start;
   align-items: center;
 }
+
 .logo-container {
   display: flex;
+  justify-content: center;
   align-items: center;
+  order: 1;
   width: 4rem;
   height: 4rem;
   margin-right: 1rem;
   background-color: #fff;
+  border-radius: .5rem;
 }
+
 .logo {
   width: 3rem;
   height: auto;
-
   vertical-align: middle;
+}
+
+::ng-deep div.mat-mdc-card-header-text {
+  order: 2;
+}
+
+.header-2 {
+  font-size: 2rem;
+}
+
+mat-card-actions {
+  order: 3;
+  margin-left: auto;
 }

@@ -1,0 +1,8 @@
+<mat-form-field class="form-field">
+  <mat-label>Season</mat-label>
+  <mat-select [(value)]="selectedSeason" selected panelClass="custom-select">
+    @for (season of seasons; track season) {
+      <mat-option [value]="season.seasonName">{{season.seasonName}}</mat-option>
+    }
+  </mat-select>
+</mat-form-field>
