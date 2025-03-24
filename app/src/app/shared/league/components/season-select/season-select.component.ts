@@ -1,8 +1,9 @@
-import { Component } from '@angular/core';
+import { Component, OnChanges, SimpleChanges } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select';
+import { Router } from '@angular/router';
 
 interface Season {
   id: number;
@@ -24,8 +25,14 @@ export class SeasonSelectComponent {
 
   public selectedSeason: string = ''
 
-  constructor() {
+  constructor(private router: Router) {
     this.selectedSeason = this.seasons[0].seasonName;
+  }
+
+  onSelectionChange(event: any): void {
+    console.log('value:', this.selectedSeason);
+    this.router.navigate([], { queryParams: {season: this.selectedSeason}});
+
   }
 
 }
