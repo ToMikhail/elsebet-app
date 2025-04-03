@@ -23,16 +23,13 @@ export class SeasonSelectComponent {
     { id: 3, seasonName: '2022' },
   ];
 
-  public selectedSeason: string = ''
+  public selectedSeason: string = '';
 
   constructor(private router: Router) {
     this.selectedSeason = this.seasons[0].seasonName;
   }
 
   onSelectionChange(event: any): void {
-    console.log('value:', this.selectedSeason);
-    this.router.navigate([], { queryParams: {season: this.selectedSeason}});
-
+    this.router.navigate([], { queryParams: { season: this.selectedSeason } });
   }
-
 }

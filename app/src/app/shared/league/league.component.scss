@@ -16,6 +16,7 @@
   border-radius: .5rem;
 }
 
+
 .logo {
   width: 3rem;
   height: auto;
@@ -34,3 +35,8 @@ mat-card-actions {
   order: 3;
   margin-left: auto;
 }
+
+::ng-deep div.mat-mdc-tab-label-container {
+  width: fit-content;
+}
+

@@ -1,0 +1,295 @@
+{
+  "name": "Premier League",
+  "matches": [
+    {
+      "matchday": "1",
+      "events": [
+        {
+          "matchday": "1",
+          "date": "2024-03-15",
+          "time": "17:00",
+          "stadium": "FC «Minsk»",
+          "home_team": "Shakhtyor Soligorsk",
+          "away_team": "Vitebsk",
+          "score": {
+            "half_time": [
+              1,
+              0
+            ],
+            "full_time": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-15",
+          "time": "19:00",
+          "stadium": "«Yunost», Mozyr",
+          "home_team": "Slavia Mozyr",
+          "away_team": "Dnepr Mogilev",
+          "score": {
+            "half_time": [
+              1,
+              0
+            ],
+            "full_time": [
+              2,
+              0
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-16",
+          "time": "13:00",
+          "stadium": "FC «Minsk»",
+          "home_team": "Minsk",
+          "away_team": "BATE",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-16",
+          "time": "15:00",
+          "stadium": "CSC «Neman» (a.p.)",
+          "home_team": "Neman Grodno",
+          "away_team": "Naftan Novopolotsk",
+          "score": {
+            "half_time": [
+              1,
+              1
+            ],
+            "full_time": [
+              2,
+              1
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-16",
+          "time": "17:00",
+          "stadium": "«Dinamo-Yuni»",
+          "home_team": "Dinamo Minsk",
+          "away_team": "Smorgon",
+          "score": {
+            "half_time": [
+              4,
+              0
+            ],
+            "full_time": [
+              5,
+              0
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-17",
+          "time": "13:00",
+          "stadium": "RCOR BSU Stadium",
+          "home_team": "Arsenal Dzerzhinsk",
+          "away_team": "Torpedo Zhodino",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              0,
+              1
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-17",
+          "time": "15:00",
+          "stadium": "SGK",
+          "home_team": "Slutsk",
+          "away_team": "Gomel",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "matchday": "1",
+          "date": "2024-03-17",
+          "time": "17:00",
+          "stadium": "Shakhter",
+          "home_team": "Shakhtyor Soligorsk",
+          "away_team": "Vitebsk",
+          "score": {
+            "half_time": [
+              1,
+              0
+            ],
+            "full_time": [
+              1,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchday": "2",
+      "events": [
+        {
+          "date": "2024-03-29",
+          "time": "17:00",
+          "stadium": "«Spartak», Mogilev",
+          "home_team": "Dnepr Mogilev",
+          "away_team": "Arsenal Dzerzhinsk",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2024-03-29",
+          "time": "19:00",
+          "stadium": "OSC «Brestski»",
+          "home_team": "Dynamo Brest",
+          "away_team": "Smorgon",
+          "score": {
+            "half_time": [
+              3,
+              0
+            ],
+            "full_time": [
+              4,
+              1
+            ]
+          }
+        },
+        {
+          "date": "2024-03-30",
+          "time": "14:00",
+          "stadium": "«Atlant» (a.p.)",
+          "home_team": "Naftan Novopolotsk",
+          "away_team": "BATE Borisov",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2024-03-30",
+          "time": "16:00",
+          "stadium": "CSC «Vitebski» (a.p.)",
+          "home_team": "Vitebsk",
+          "away_team": "Slavia Mozyr",
+          "score": {
+            "half_time": [
+              2,
+              2
+            ],
+            "full_time": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2024-03-30",
+          "time": "18:00",
+          "stadium": "FC «Minsk»",
+          "home_team": "Isloch",
+          "away_team": "Shakhter Soligorsk",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "13:00",
+          "stadium": "SDUSHOR-8",
+          "home_team": "Gomel",
+          "away_team": "Neman Grodno",
+          "score": {
+            "half_time": [
+              1,
+              1
+            ],
+            "full_time": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "15:00",
+          "stadium": "«Torpedo», Zhodino",
+          "home_team": "Torpedo Zhodino",
+          "away_team": "Slutsk",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              1,
+              0
+            ]
+          }
+        },
+        {
+          "date": "2024-03-31",
+          "time": "17:00",
+          "stadium": "FC «Minsk»",
+          "home_team": "Minsk",
+          "away_team": "Dinamo Minsk",
+          "score": {
+            "half_time": [
+              0,
+              0
+            ],
+            "full_time": [
+              0,
+              0
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

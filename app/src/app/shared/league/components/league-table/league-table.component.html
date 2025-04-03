@@ -11,7 +11,7 @@
 
   <ng-container matColumnDef="team">
     <th mat-header-cell *matHeaderCellDef> Name </th>
-    <td mat-cell *matCellDef="let element"> {{element.team}} </td>
+    <td mat-cell *matCellDef="let element"><img class="team-logo" src="{{element.logo_link}}" alt="logo"> {{element.team}} </td>
   </ng-container>
 
   <ng-container matColumnDef="played">
