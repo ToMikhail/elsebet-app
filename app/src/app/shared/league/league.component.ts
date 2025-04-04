@@ -10,10 +10,11 @@ import { MatCardModule } from '@angular/material/card';
 import { LeagueTableComponent } from './components/league-table/league-table.component';
 import { MatTabsModule } from '@angular/material/tabs';
 import { SeasonSelectComponent } from './components/season-select/season-select.component';
+import { SeasonMatchesComponent } from './components/season-matches/season-matches.component';
 
 @Component({
   selector: 'app-league',
-  imports: [MatCardModule, MatTabsModule, LeagueTableComponent, SeasonSelectComponent],
+  imports: [MatCardModule, MatTabsModule, LeagueTableComponent, SeasonSelectComponent, SeasonMatchesComponent],
   // providers: [{ provide: MockLeagueService, useClass: MockLeagueService }],
   providers: [MockLeagueService], // alternative method to inject service
   templateUrl: './league.component.html',

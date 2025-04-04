@@ -1,0 +1,30 @@
+@if (!allMatches$) {
+<p>Nothing is found</p>
+}
+
+@for (matchday of allMatches$ | async; track matchday.matchday) {
+  <h3>Matchday {{matchday.matchday}}</h3>
+  @for (event of matchday.events; track $index) {
+  <mat-card appearance="outlined">
+    <mat-card-content>
+      <mat-card>
+        <mat-card-title>{{event.home_team}}</mat-card-title>
+        <div mat-card-avatar class="team-logo"></div>
+      </mat-card>
+      <mat-card>
+        <mat-card-title>{{ event.score.full_time[0] }} - {{ event.score.full_time[1] }}</mat-card-title>
+        <mat-card-subtitle>{{ event.date }}</mat-card-subtitle>
+        <mat-card-subtitle>{{ event.time }}</mat-card-subtitle>
+        <mat-card-subtitle>{{ event.stadium }}</mat-card-subtitle>
+
+      </mat-card>
+      <mat-card>
+        <mat-card-title>{{event.away_team}}</mat-card-title>
+        <div mat-card-avatar class="team-logo"></div>
+      </mat-card>
+    </mat-card-content>
+  </mat-card>
+  }
+}
+
+<!-- <pre>{{ allMatches$ | async | json}} </pre> -->
