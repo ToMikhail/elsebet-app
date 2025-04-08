@@ -4,78 +4,85 @@
   "season": "2024",
   "teams": [
     {
-      "country": "Belarus",
-      "league": "Premier League",
-      "season": "2024",
-      "signLink": "https://upload.wikimedia.org/wikipedia/en/d/d6/Belarus_Premier_League_logo.png",
-      "standings": [
-        {
-          "team": "Dinamo Minsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/6/6a/%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%9C%D1%96%D0%BD%D1%81%D0%BA.png/200px-%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%9C%D1%96%D0%BD%D1%81%D0%BA.png"
-        },
-        {
-          "team": "Neman Grodno",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/f/f4/%D0%A4%D0%9A_%D0%9D%D1%91%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%B0.png/155px-%D0%A4%D0%9A_%D0%9D%D1%91%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%B0.png"
-        },
-        {
-          "team": "Torpedo Zhodino",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/TorpedoZhodinoLogo.png/250px-TorpedoZhodinoLogo.png"
-        },
-        {
-          "team": "Dinamo Brest",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/a/a6/%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%91%D1%80%D1%8D%D1%81%D1%82.png/182px-%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%91%D1%80%D1%8D%D1%81%D1%82.png"
-        },
-        {
-          "team": "Vitebsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/5/52/%D0%A4%D0%9A_%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA.png/170px-%D0%A4%D0%9A_%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA.png"
-        },
-        {
-          "team": "Gomel",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/e/ef/%D0%A4%D0%9A_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png/218px-%D0%A4%D0%9A_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png"
-        },
-        {
-          "team": "Isloch Minsk Raion",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/7/79/FC_Isloch_Logo.png/160px-FC_Isloch_Logo.png"
-        },
-        {
-          "team": "Slavia Mozyr",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/e/e6/%D0%A4%D0%9A_%D0%A1%D0%BB%D0%B0%D0%B2%D1%96%D1%8F_%D0%9C%D0%B0%D0%B7%D1%8B%D1%80_%282014%29.png?20220511202523"
-        },
-        {
-          "team": "BATE Borisov",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/5/5f/%D0%A4%D0%9A_%D0%91%D0%90%D0%A2%D0%AD_%282020%29.gif/190px-%D0%A4%D0%9A_%D0%91%D0%90%D0%A2%D0%AD_%282020%29.gif"
-        },
-        {
-          "team": "Minsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/3/33/Fc-minsk.png/210px-Fc-minsk.png"
-        },
-        {
-          "team": "Slutsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/8/8a/%D0%A4%D0%9A_%D0%A1%D0%BB%D1%83%D1%86%D0%BA.png/215px-%D0%A4%D0%9A_%D0%A1%D0%BB%D1%83%D1%86%D0%BA.png"
-        },
-        {
-          "team": "Smorgon",
-          "logo_link":"https://upload.wikimedia.org/wikipedia/be/thumb/d/d8/%D0%A4%D0%9A_%D0%A1%D0%BC%D0%B0%D1%80%D0%B3%D0%BE%D0%BD%D1%8C.gif/145px-%D0%A4%D0%9A_%D0%A1%D0%BC%D0%B0%D1%80%D0%B3%D0%BE%D0%BD%D1%8C.gif"
-        },
-        {
-          "team": "Naftan Novopolotsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/f/f2/%D0%A4%D0%9A_%D0%9D%D0%B0%D1%84%D1%82%D0%B0%D0%BD.gif/175px-%D0%A4%D0%9A_%D0%9D%D0%B0%D1%84%D1%82%D0%B0%D0%BD.gif"
-        },
-        {
-          "team": "Dnepr Mogilev",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/9/96/%D0%94%D0%BD%D1%8F%D0%BF%D1%80%D0%BE_%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E_%282020%29.png/190px-%D0%94%D0%BD%D1%8F%D0%BF%D1%80%D0%BE_%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E_%282020%29.png"
-        },
-        {
-          "team": "Arsenal Dzerzhinsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif/175px-%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif"
-        },
-        {
-          "team": "Shakhtyor Soligorsk",
-          "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/7/7a/%D0%A4%D0%9A_%D0%A8%D0%B0%D1%85%D1%86%D1%91%D1%80_%D0%A1%D0%B0%D0%BB%D1%96%D0%B3%D0%BE%D1%80%D1%81%D0%BA.gif/180px-%D0%A4%D0%9A_%D0%A8%D0%B0%D1%85%D1%86%D1%91%D1%80_%D0%A1%D0%B0%D0%BB%D1%96%D0%B3%D0%BE%D1%80%D1%81%D0%BA.gif"
-        }
-      ]
+      "id": "111-01",
+      "name": "Dinamo Minsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/6/6a/%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%9C%D1%96%D0%BD%D1%81%D0%BA.png/200px-%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%9C%D1%96%D0%BD%D1%81%D0%BA.png"
+    },
+    {
+      "id": "111-02",
+      "name": "Neman Grodno",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/f/f4/%D0%A4%D0%9A_%D0%9D%D1%91%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%B0.png/155px-%D0%A4%D0%9A_%D0%9D%D1%91%D0%BC%D0%B0%D0%BD_%D0%93%D1%80%D0%BE%D0%B4%D0%BD%D0%B0.png"
+    },
+    {
+      "id": "111-03",
+      "name": "Torpedo Zhodino",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/TorpedoZhodinoLogo.png/250px-TorpedoZhodinoLogo.png"
+    },
+    {
+      "id": "111-04",
+      "name": "Dinamo Brest",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/a/a6/%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%91%D1%80%D1%8D%D1%81%D1%82.png/182px-%D0%A4%D0%9A_%D0%94%D1%8B%D0%BD%D0%B0%D0%BC%D0%B0_%D0%91%D1%80%D1%8D%D1%81%D1%82.png"
+    },
+    {
+      "id": "111-05",
+      "name": "Vitebsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/5/52/%D0%A4%D0%9A_%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA.png/170px-%D0%A4%D0%9A_%D0%92%D1%96%D1%86%D0%B5%D0%B1%D1%81%D0%BA.png"
+    },
+    {
+      "id": "111-06",
+      "name": "Gomel",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/e/ef/%D0%A4%D0%9A_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png/218px-%D0%A4%D0%9A_%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png"
+    },
+    {
+      "id": "111-07",
+      "name": "Isloch Minsk Raion",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/7/79/FC_Isloch_Logo.png/160px-FC_Isloch_Logo.png"
+    },
+    {
+      "id": "111-08",
+      "name": "Slavia Mozyr",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/e/e6/%D0%A4%D0%9A_%D0%A1%D0%BB%D0%B0%D0%B2%D1%96%D1%8F_%D0%9C%D0%B0%D0%B7%D1%8B%D1%80_%282014%29.png?20220511202523"
+    },
+    {
+      "id": "111-09",
+      "name": "BATE Borisov",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/5/5f/%D0%A4%D0%9A_%D0%91%D0%90%D0%A2%D0%AD_%282020%29.gif/190px-%D0%A4%D0%9A_%D0%91%D0%90%D0%A2%D0%AD_%282020%29.gif"
+    },
+    {
+      "id": "111-10",
+      "name": "Minsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/3/33/Fc-minsk.png/210px-Fc-minsk.png"
+    },
+    {
+      "id": "111-11",
+      "name": "Slutsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/8/8a/%D0%A4%D0%9A_%D0%A1%D0%BB%D1%83%D1%86%D0%BA.png/215px-%D0%A4%D0%9A_%D0%A1%D0%BB%D1%83%D1%86%D0%BA.png"
+    },
+    {
+      "id": "111-12",
+      "name": "Smorgon",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/d/d8/%D0%A4%D0%9A_%D0%A1%D0%BC%D0%B0%D1%80%D0%B3%D0%BE%D0%BD%D1%8C.gif/145px-%D0%A4%D0%9A_%D0%A1%D0%BC%D0%B0%D1%80%D0%B3%D0%BE%D0%BD%D1%8C.gif"
+    },
+    {
+      "id": "111-13",
+      "name": "Naftan Novopolotsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/f/f2/%D0%A4%D0%9A_%D0%9D%D0%B0%D1%84%D1%82%D0%B0%D0%BD.gif/175px-%D0%A4%D0%9A_%D0%9D%D0%B0%D1%84%D1%82%D0%B0%D0%BD.gif"
+    },
+    {
+      "id": "111-14",
+      "name": "Dnepr Mogilev",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/9/96/%D0%94%D0%BD%D1%8F%D0%BF%D1%80%D0%BE_%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E_%282020%29.png/190px-%D0%94%D0%BD%D1%8F%D0%BF%D1%80%D0%BE_%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E_%282020%29.png"
+    },
+    {
+      "id": "111-15",
+      "name": "Arsenal Dzerzhinsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif/175px-%D0%A4%D0%9A_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B0%D0%BB_%D0%94%D0%B7%D1%8F%D1%80%D0%B6%D1%8B%D0%BD%D1%81%D0%BA.gif"
+    },
+    {
+      "id": "111-16",
+      "name": "Shakhtyor Soligorsk",
+      "logo_link": "https://upload.wikimedia.org/wikipedia/be/thumb/7/7a/%D0%A4%D0%9A_%D0%A8%D0%B0%D1%85%D1%86%D1%91%D1%80_%D0%A1%D0%B0%D0%BB%D1%96%D0%B3%D0%BE%D1%80%D1%81%D0%BA.gif/180px-%D0%A4%D0%9A_%D0%A8%D0%B0%D1%85%D1%86%D1%91%D1%80_%D0%A1%D0%B0%D0%BB%D1%96%D0%B3%D0%BE%D1%80%D1%81%D0%BA.gif"
     }
-
   ],
   "matches": [
     {
@@ -85,8 +92,8 @@
           "date": "2024-03-15",
           "time": "17:00",
           "stadium": "FC «Minsk»",
-          "home_team": "Shakhtyor Soligorsk",
-          "away_team": "Vitebsk",
+          "home_name": "Shakhtyor Soligorsk",
+          "away_name": "Vitebsk",
           "score": {
             "half_time": [
               1,
@@ -102,8 +109,8 @@
           "date": "2024-03-15",
           "time": "19:00",
           "stadium": "«Yunost», Mozyr",
-          "home_team": "Slavia Mozyr",
-          "away_team": "Dnepr Mogilev",
+          "home_name": "Slavia Mozyr",
+          "away_name": "Dnepr Mogilev",
           "score": {
             "half_time": [
               1,
@@ -119,8 +126,8 @@
           "date": "2024-03-16",
           "time": "13:00",
           "stadium": "FC «Minsk»",
-          "home_team": "Minsk",
-          "away_team": "BATE",
+          "home_name": "Minsk",
+          "away_name": "BATE",
           "score": {
             "half_time": [
               0,
@@ -136,8 +143,8 @@
           "date": "2024-03-16",
           "time": "15:00",
           "stadium": "CSC «Neman» (a.p.)",
-          "home_team": "Neman Grodno",
-          "away_team": "Naftan Novopolotsk",
+          "home_name": "Neman Grodno",
+          "away_name": "Naftan Novopolotsk",
           "score": {
             "half_time": [
               1,
@@ -153,8 +160,8 @@
           "date": "2024-03-16",
           "time": "17:00",
           "stadium": "«Dinamo-Yuni»",
-          "home_team": "Dinamo Minsk",
-          "away_team": "Smorgon",
+          "home_name": "Dinamo Minsk",
+          "away_name": "Smorgon",
           "score": {
             "half_time": [
               4,
@@ -170,8 +177,8 @@
           "date": "2024-03-17",
           "time": "13:00",
           "stadium": "RCOR BSU Stadium",
-          "home_team": "Arsenal Dzerzhinsk",
-          "away_team": "Torpedo Zhodino",
+          "home_name": "Arsenal Dzerzhinsk",
+          "away_name": "Torpedo Zhodino",
           "score": {
             "half_time": [
               0,
@@ -187,8 +194,8 @@
           "date": "2024-03-17",
           "time": "15:00",
           "stadium": "SGK",
-          "home_team": "Slutsk",
-          "away_team": "Gomel",
+          "home_name": "Slutsk",
+          "away_name": "Gomel",
           "score": {
             "half_time": [
               0,
@@ -204,8 +211,8 @@
           "date": "2024-03-17",
           "time": "17:00",
           "stadium": "Shakhter",
-          "home_team": "Shakhtyor Soligorsk",
-          "away_team": "Vitebsk",
+          "home_name": "Shakhtyor Soligorsk",
+          "away_name": "Vitebsk",
           "score": {
             "half_time": [
               1,
@@ -226,8 +233,8 @@
           "date": "2024-03-29",
           "time": "17:00",
           "stadium": "«Spartak», Mogilev",
-          "home_team": "Dnepr Mogilev",
-          "away_team": "Arsenal Dzerzhinsk",
+          "home_name": "Dnepr Mogilev",
+          "away_name": "Arsenal Dzerzhinsk",
           "score": {
             "half_time": [
               0,
@@ -243,8 +250,8 @@
           "date": "2024-03-29",
           "time": "19:00",
           "stadium": "OSC «Brestski»",
-          "home_team": "Dynamo Brest",
-          "away_team": "Smorgon",
+          "home_name": "Dynamo Brest",
+          "away_name": "Smorgon",
           "score": {
             "half_time": [
               3,
@@ -260,8 +267,8 @@
           "date": "2024-03-30",
           "time": "14:00",
           "stadium": "«Atlant» (a.p.)",
-          "home_team": "Naftan Novopolotsk",
-          "away_team": "BATE Borisov",
+          "home_name": "Naftan Novopolotsk",
+          "away_name": "BATE Borisov",
           "score": {
             "half_time": [
               0,
@@ -277,8 +284,8 @@
           "date": "2024-03-30",
           "time": "16:00",
           "stadium": "CSC «Vitebski» (a.p.)",
-          "home_team": "Vitebsk",
-          "away_team": "Slavia Mozyr",
+          "home_name": "Vitebsk",
+          "away_name": "Slavia Mozyr",
           "score": {
             "half_time": [
               2,
@@ -294,8 +301,8 @@
           "date": "2024-03-30",
           "time": "18:00",
           "stadium": "FC «Minsk»",
-          "home_team": "Isloch",
-          "away_team": "Shakhter Soligorsk",
+          "home_name": "Isloch",
+          "away_name": "Shakhter Soligorsk",
           "score": {
             "half_time": [
               0,
@@ -311,8 +318,8 @@
           "date": "2024-03-31",
           "time": "13:00",
           "stadium": "SDUSHOR-8",
-          "home_team": "Gomel",
-          "away_team": "Neman Grodno",
+          "home_name": "Gomel",
+          "away_name": "Neman Grodno",
           "score": {
             "half_time": [
               1,
@@ -328,8 +335,8 @@
           "date": "2024-03-31",
           "time": "15:00",
           "stadium": "«Torpedo», Zhodino",
-          "home_team": "Torpedo Zhodino",
-          "away_team": "Slutsk",
+          "home_name": "Torpedo Zhodino",
+          "away_name": "Slutsk",
           "score": {
             "half_time": [
               0,
@@ -345,8 +352,8 @@
           "date": "2024-03-31",
           "time": "17:00",
           "stadium": "FC «Minsk»",
-          "home_team": "Minsk",
-          "away_team": "Dinamo Minsk",
+          "home_name": "Minsk",
+          "away_name": "Dinamo Minsk",
           "score": {
             "half_time": [
               0,

@@ -1,0 +1,26 @@
+.match-container {
+  margin: 1rem;
+  border-radius: .5rem;
+}
+.match-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.match-item {
+  flex: 1;
+  text-align: center;
+}
+.team {
+  display: flex;
+  flex-direction: row;
+}
+
+.team-logo {
+  background-color: #fff;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 100%;
+}

@@ -18,8 +18,22 @@ export class MockSeasonMatchesService {
       map((season: any) => {
         return season.matches;
       }),
-      tap((response: any) => console.log('response:', response)),
+      // tap((response: any) => console.log('response:', response)),
       catchError((error): any => console.log('error:', error))
     );
+  }
+
+  public getLogo(name: string): Observable<any> {
+    return this.http.get(this.baseUrl).pipe(
+      // tap((res: any) => console.log("res:", res)),
+      map((season:any) => {
+        console.log('season: ', season.teams);
+        season.teams.filter((team:any) => {
+          team.name === name
+          console.log('getLogoResponse: ', typeof team.logo_link);
+          return team.logo_link as string
+        })
+      }),
+    )
   }
 }

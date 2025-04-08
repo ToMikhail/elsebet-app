@@ -21,8 +21,14 @@ export class SeasonMatchesComponent {
     MockSeasonMatchesService
   );
 
+  public logo$: any = ''
 
   public allMatches$: Observable<any[]> =
     this.matchesService.getAllSeasonMatches();
+url: string = 'url("https://upload.wikimedia.org/wikipedia/en/d/d6/Belarus_Premier_League_logo.png")';
 
+  getTeamLogo(name: string): any {
+    this.logo$ = this.matchesService.getLogo(name).subscribe();
+    // return this.url;
+  }
 }
