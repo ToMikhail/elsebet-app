@@ -92,8 +92,8 @@
           "date": "2024-03-15",
           "time": "17:00",
           "stadium": "FC «Minsk»",
-          "home_name": "Shakhtyor Soligorsk",
-          "away_name": "Vitebsk",
+          "home_team": "Isloch Minsk Raion",
+          "away_team": "Dinamo Brest",
           "score": {
             "half_time": [
               1,
@@ -109,8 +109,8 @@
           "date": "2024-03-15",
           "time": "19:00",
           "stadium": "«Yunost», Mozyr",
-          "home_name": "Slavia Mozyr",
-          "away_name": "Dnepr Mogilev",
+          "home_team": "Slavia Mozyr",
+          "away_team": "Dnepr Mogilev",
           "score": {
             "half_time": [
               1,
@@ -126,8 +126,8 @@
           "date": "2024-03-16",
           "time": "13:00",
           "stadium": "FC «Minsk»",
-          "home_name": "Minsk",
-          "away_name": "BATE",
+          "home_team": "Minsk",
+          "away_team": "BATE Borisov",
           "score": {
             "half_time": [
               0,
@@ -143,8 +143,8 @@
           "date": "2024-03-16",
           "time": "15:00",
           "stadium": "CSC «Neman» (a.p.)",
-          "home_name": "Neman Grodno",
-          "away_name": "Naftan Novopolotsk",
+          "home_team": "Neman Grodno",
+          "away_team": "Naftan Novopolotsk",
           "score": {
             "half_time": [
               1,
@@ -160,8 +160,8 @@
           "date": "2024-03-16",
           "time": "17:00",
           "stadium": "«Dinamo-Yuni»",
-          "home_name": "Dinamo Minsk",
-          "away_name": "Smorgon",
+          "home_team": "Dinamo Minsk",
+          "away_team": "Smorgon",
           "score": {
             "half_time": [
               4,
@@ -177,8 +177,8 @@
           "date": "2024-03-17",
           "time": "13:00",
           "stadium": "RCOR BSU Stadium",
-          "home_name": "Arsenal Dzerzhinsk",
-          "away_name": "Torpedo Zhodino",
+          "home_team": "Arsenal Dzerzhinsk",
+          "away_team": "Torpedo Zhodino",
           "score": {
             "half_time": [
               0,
@@ -194,8 +194,8 @@
           "date": "2024-03-17",
           "time": "15:00",
           "stadium": "SGK",
-          "home_name": "Slutsk",
-          "away_name": "Gomel",
+          "home_team": "Slutsk",
+          "away_team": "Gomel",
           "score": {
             "half_time": [
               0,
@@ -211,8 +211,8 @@
           "date": "2024-03-17",
           "time": "17:00",
           "stadium": "Shakhter",
-          "home_name": "Shakhtyor Soligorsk",
-          "away_name": "Vitebsk",
+          "home_team": "Shakhtyor Soligorsk",
+          "away_team": "Vitebsk",
           "score": {
             "half_time": [
               1,
@@ -233,8 +233,8 @@
           "date": "2024-03-29",
           "time": "17:00",
           "stadium": "«Spartak», Mogilev",
-          "home_name": "Dnepr Mogilev",
-          "away_name": "Arsenal Dzerzhinsk",
+          "home_team": "Dnepr Mogilev",
+          "away_team": "Arsenal Dzerzhinsk",
           "score": {
             "half_time": [
               0,
@@ -250,8 +250,8 @@
           "date": "2024-03-29",
           "time": "19:00",
           "stadium": "OSC «Brestski»",
-          "home_name": "Dynamo Brest",
-          "away_name": "Smorgon",
+          "home_team": "Dinamo Brest",
+          "away_team": "Smorgon",
           "score": {
             "half_time": [
               3,
@@ -267,8 +267,8 @@
           "date": "2024-03-30",
           "time": "14:00",
           "stadium": "«Atlant» (a.p.)",
-          "home_name": "Naftan Novopolotsk",
-          "away_name": "BATE Borisov",
+          "home_team": "Naftan Novopolotsk",
+          "away_team": "BATE Borisov",
           "score": {
             "half_time": [
               0,
@@ -284,8 +284,8 @@
           "date": "2024-03-30",
           "time": "16:00",
           "stadium": "CSC «Vitebski» (a.p.)",
-          "home_name": "Vitebsk",
-          "away_name": "Slavia Mozyr",
+          "home_team": "Vitebsk",
+          "away_team": "Slavia Mozyr",
           "score": {
             "half_time": [
               2,
@@ -301,8 +301,8 @@
           "date": "2024-03-30",
           "time": "18:00",
           "stadium": "FC «Minsk»",
-          "home_name": "Isloch",
-          "away_name": "Shakhter Soligorsk",
+          "home_team": "Isloch Minsk Raion",
+          "away_team": "Shakhtyor Soligorsk",
           "score": {
             "half_time": [
               0,
@@ -318,8 +318,8 @@
           "date": "2024-03-31",
           "time": "13:00",
           "stadium": "SDUSHOR-8",
-          "home_name": "Gomel",
-          "away_name": "Neman Grodno",
+          "home_team": "Gomel",
+          "away_team": "Neman Grodno",
           "score": {
             "half_time": [
               1,
@@ -335,8 +335,8 @@
           "date": "2024-03-31",
           "time": "15:00",
           "stadium": "«Torpedo», Zhodino",
-          "home_name": "Torpedo Zhodino",
-          "away_name": "Slutsk",
+          "home_team": "Torpedo Zhodino",
+          "away_team": "Slutsk",
           "score": {
             "half_time": [
               0,
@@ -352,8 +352,8 @@
           "date": "2024-03-31",
           "time": "17:00",
           "stadium": "FC «Minsk»",
-          "home_name": "Minsk",
-          "away_name": "Dinamo Minsk",
+          "home_team": "Minsk",
+          "away_team": "Dinamo Minsk",
           "score": {
             "half_time": [
               0,

@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, resource } from '@angular/core';
 import { toObservable } from '@angular/core/rxjs-interop';
-import { Observable, catchError, map, tap } from 'rxjs';
+import { Observable, catchError, map, retry, tap } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -23,17 +23,11 @@ export class MockSeasonMatchesService {
     );
   }
 
-  public getLogo(name: string): Observable<any> {
+  public getAllTeams(): Observable<any> {
     return this.http.get(this.baseUrl).pipe(
-      // tap((res: any) => console.log("res:", res)),
-      map((season:any) => {
-        console.log('season: ', season.teams);
-        season.teams.filter((team:any) => {
-          team.name === name
-          console.log('getLogoResponse: ', typeof team.logo_link);
-          return team.logo_link as string
-        })
-      }),
-    )
+      map((league: any) => {
+        return league.teams;
+      })
+    );
   }
 }

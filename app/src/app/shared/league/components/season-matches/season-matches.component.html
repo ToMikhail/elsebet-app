@@ -4,14 +4,19 @@
 
 @for (matchday of allMatches$ | async; track matchday.matchday) {
 <h3>Matchday {{matchday.matchday}}</h3>
+
+<!-- @for (team of allTeams$(); track team.id) {
+  <pre>{{ team  }}</pre>
+} -->
+
 @for (event of matchday.events; track $index) {
 <!-- <div class="container"> -->
-<mat-card class="match-container" appearance="outlined">
+<mat-card class="match-container" appearance="outlined" on>
   <mat-card-content class="match-content">
     <mat-card class="match-item team">
       <mat-card-title>{{event.home_team}}</mat-card-title>
       <!-- <div mat-card-avatar class="team-logo" [ngStyle]="{'background-image': url }"></div> -->
-      <div mat-card-avatar class="team-logo" [ngStyle]="{'background-image': getTeamLogo(event.home_team) }"></div>
+      <div mat-card-avatar class="team-logo" [ngStyle]="{'background-image': getTeamLogo(event.home_team)}"></div>
     </mat-card>
     <mat-card class="match-item match-info">
       <mat-card-title>{{ event.score.full_time[0] }} - {{ event.score.full_time[1] }}</mat-card-title>
@@ -21,7 +26,7 @@
     </mat-card>
     <mat-card class="match-item team">
       <mat-card-title>{{event.away_team}}</mat-card-title>
-      <div mat-card-avatar class="team-logo"></div>
+      <div mat-card-avatar class="team-logo" [ngStyle]="{'background-image': getTeamLogo(event.away_team)}"></div>
     </mat-card>
   </mat-card-content>
 </mat-card>
